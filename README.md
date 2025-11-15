@@ -47,3 +47,5 @@ Caminho 1 (usuário encontrado) - 1 → 2 → 3 → 4 → 5 → 6 (SIM) → 7 �
 Caminho 2 (usuário não encontrado) - 1 → 2 → 3 → 4 → 5 → 6 (NÃO) → 8 → 10 (FALSE)
 
 Caminho 3 (erro de execução) - 1 → 2 → 3 → 4 → (Catch) 9 → 10 (FALSE)
+
+O código foi executado na IDE Eclipse, coloquei os arquivos dentro da pasta uxui, junto com o print do resultado.
