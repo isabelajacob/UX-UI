@@ -23,6 +23,7 @@ NOTAÇÃO DE GRAFO DE FLUXO
 9 → 10
 
 
+
 COMPLEXIDADE CICLOMÁTICA
 
 M = E − N + 2PM = E − N + 2P	
@@ -36,6 +37,7 @@ Valor Obtido - 3
 Caminhos Independentes - 3
 
 Necessidade de Testes - 3 testes
+
 
 
 CAMINHOS BÁSICOS
